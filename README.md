@@ -3,7 +3,7 @@
 1. Nibabel
 Nibabel is Python Library which  Input/Output neuroimaging file (about Analyze format, NIfTI format...)
 
-[my notebook on HTML](./Nibabel_note/Nibabel.html)
+[Nibabel my notebook](./Nibabel_note/Nibabel.ipynb)
 
 2. Nipy
 Nipy is Python Library which processe neuroimaging file (about Analyze format, NIfTI format...)
