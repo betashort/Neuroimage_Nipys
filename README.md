@@ -1,20 +1,22 @@
 # I note and study about Python's Library "Nipy" 
 
-1. Nibabel
-Nibabel is Python Library which  Input/Output neuroimaging file (about Analyze format, NIfTI format...)
+## 1. Nibabel
+Nibabel is Python Library which  Input/Output neuroimaging file (about Analyze format, NIfTI format...)  
 
-[Nibabel my notebook](./Nibabel_note/Nibabel.ipynb)
+[Nibabel my notebook](./Nibabel_note/Nibabel.ipynb)  
 
-2. Nipy
-Nipy is Python Library which processe neuroimaging file (about Analyze format, NIfTI format...)
+## 2. Nipy
+Nipy is Python Library which processe neuroimaging file (about Analyze format, NIfTI format...)  
 
-2.1 Create_Brain_Image_Animation  
-[Nipy my notebook](./Nipy_note/Create_Brain_Image_Animation.ipynb)
-![axis.gif](./Nipy_note/picture/Axial.gif)
+### 2.1 Create_Brain_Image_Animation  
+[Nipy my notebook](./Nipy_note/Create_Brain_Image_Animation.ipynb)  
+![axis.gif](./Nipy_note/picture/Axial.gif)  
 
-2.2 HRF(Hemodynamic Response Function)  
-[Nipy my notebook](./Nipy_note/HRF.ipynb)
-![HRF](./Nipy_note/picture/HemodynamicResponseFunction.png)
+### 2.2 HRF(Hemodynamic Response Function)  
+[Nipy my notebook](./Nipy_note/HRF.ipynb)  
+![HRF](./Nipy_note/picture/HemodynamicResponseFunction.png)  
+
+
 
 # reference
 1. https://nipy.org/index.html
