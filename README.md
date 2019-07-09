@@ -10,11 +10,11 @@ Nipy is Python Library which processe neuroimaging file (about Analyze format, N
 
 2.1 Create_Brain_Image_Animation  
 [Nipy my notebook](./Nipy_note/Create_Brain_Image_Animation.ipynb)
-[axis.gif](./Nipy_note/picture/Axis.gif)
+![axis.gif](./Nipy_note/picture/Axial.gif)
 
 2.2 HRF(Hemodynamic Response Function)  
 [Nipy my notebook](./Nipy_note/HRF.ipynb)
-[HRF](./Nipy_note/picture/HemodynamicResponseFunction.png)
+![HRF](./Nipy_note/picture/HemodynamicResponseFunction.png)
 
 # reference
 1. https://nipy.org/index.html
